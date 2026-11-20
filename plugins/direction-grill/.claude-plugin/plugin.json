@@ -1,0 +1,6 @@
+{
+  "name": "direction-grill",
+  "version": "1.0.0",
+  "description": "Grill someone about their life or business direction in numbered rounds with recommended answers, then deliver a one-page plan.",
+  "author": { "name": "shipwithian" }
+}

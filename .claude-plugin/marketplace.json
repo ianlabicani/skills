@@ -1,0 +1,11 @@
+{
+  "name": "shipwithian-skills",
+  "owner": { "name": "shipwithian" },
+  "plugins": [
+    {
+      "name": "direction-grill",
+      "source": "./plugins/direction-grill",
+      "description": "Grill someone about their life or business direction in numbered rounds with recommended answers, then deliver a one-page plan."
+    }
+  ]
+}
