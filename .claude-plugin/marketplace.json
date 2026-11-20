@@ -1,6 +1,11 @@
 {
   "name": "shipwithian-skills",
-  "owner": { "name": "shipwithian" },
+  "owner": {
+    "name": "shipwithian"
+  },
+  "metadata": {
+    "description": "Free Claude skills by shipwithian."
+  },
   "plugins": [
     {
       "name": "direction-grill",
